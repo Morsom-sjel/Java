@@ -357,7 +357,7 @@ System.out.println("x="+x+",y="+y);//7 1
 
 &和|的位运算：
 
-![1581489315092](C:\Users\86187\AppData\Roaming\Typora\typora-user-images\1581489315092.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200215150204713.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY5MjUwNA==,size_16,color_FFFFFF,t_70)
 
 异或位运算同理
 
